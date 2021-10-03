@@ -1,11 +1,11 @@
 module.exports.config = {
-	name: "allbox",
+	name: "List box",
 	version: "1.0.0",
 	credits: "Him",
 	hasPermssion: 2,
 	description: "Lấy tên và id các nhóm chứa bot",
 	commandCategory: "System",
-	usages: "allbox",
+	usages: "List box",
 	cooldowns: 5
 };
 
